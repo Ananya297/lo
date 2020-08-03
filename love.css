@@ -1,0 +1,60 @@
+body{
+	width: 100%;
+	text-align: center;
+	/*background-color: #fcf7bb;*/
+	background-image: url('wall.jpg');
+	background-size: cover;
+}
+.form{
+	margin: 4%;
+
+}
+p{
+	margin: 2%;
+
+
+}
+label{
+	font-family: 'Dancing Script', cursive;
+	font-size: 2.8rem;
+	color: #f0134d;
+
+
+}
+h1{
+	font-family: 'Pacifico', cursive;
+	color: #f8b595;
+	font-size: 4rem;
+	text-shadow: black/*f4f7c5*/ 1px 0 30px;
+}
+button{
+	border-radius: 35px;
+	padding: 10px;
+	margin-top: 5%;
+	font-family: 'Cookie', cursive;
+	font-size: 2rem;
+	color: #f4f7c5;
+	border:none;
+	background-color: #810000;
+	box-shadow: #f4f7c5 2px 0 20px;
+
+}
+input{
+	border-radius: 30px;
+	text-align: center;
+	padding: 5px 15px;
+	font-size: 1.2rem;
+	font-family: 'Chilanka', cursive;
+	color: #c7004c;
+	border:none;
+	background-color: #f4f7c5;
+	box-shadow: #810000 2px 0 20px;
+
+}
+img{
+	position: absolute;
+	height: 50%;
+}
+.form-group{
+
+}
